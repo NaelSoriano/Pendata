@@ -1,0 +1,13 @@
+title: Penambangan Data (Data Mining)
+author: Tanata Wian Poernomo
+logo: _static/Profile.jpg
+
+repository:
+  url: https://github.com/NaelSoriano/pendata
+  path_to_book: ""
+  branch: main
+
+html:
+  use_repository_button: true
+  use_issues_button: true
+  use_edit_page_button: true
